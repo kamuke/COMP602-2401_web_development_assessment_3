@@ -1,1 +1,1 @@
-# COMP602-2401_web_development_assessment_3
+# COMP602/2401 Web Development: Assessment 3
